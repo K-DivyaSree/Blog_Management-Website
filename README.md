@@ -9,9 +9,9 @@ This project has been completed as part of Tasks assigned by Bharat Intern.
 
 ## Features 
 
-**Add Blog:** Allows users to add new blog posts.
-**Read Blogs:** Displays a list of all existing blog posts.
-**Show Blog:** Displays the details of a specific blog post.
+-**Add Blog:** Allows users to add new blog posts.
+-**Read Blogs:** Displays a list of all existing blog posts.
+-**Show Blog:** Displays the details of a specific blog post.
 
 ## Prerequisites
 
