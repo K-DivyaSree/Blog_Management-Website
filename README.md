@@ -15,7 +15,7 @@ This repository hosts the source code for a straightforward yet efficient blog m
 
 ## Prerequisites
 
-Node.js: Download and installation instructions available [here] (https://nodejs.org/).
+Node.js: Download and installation instructions available here (https://nodejs.org/).
 MongoDB: Download and setup MongoDB from [here] (https://www.mongodb.com/try/download/community).
 
 ## Technologies Utilized
